@@ -1,0 +1,9 @@
+text
+#Node dependencies
+node_modules/
+
+#Environment variables
+.env
+
+#Windows sytem files
+Thumbs.db
