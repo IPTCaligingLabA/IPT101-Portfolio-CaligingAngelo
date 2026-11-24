@@ -1,0 +1,21 @@
+{
+  "name": "ipt101-portfolio-caligingangelo",
+  "version": "1.0.0",
+  "description": "**Name:** Caliging Angelo \r           **Section:** Lab A\r            **Instructor:** IPTTeacherJonas\r          This repository contains all my backend Node.js activities for Integrative Programming and Technologies (IPT101).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IPTCaligingLabA/IPT101-Portfolio-CaligingAngelo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/IPTCaligingLabA/IPT101-Portfolio-CaligingAngelo/issues"
+  },
+  "homepage": "https://github.com/IPTCaligingLabA/IPT101-Portfolio-CaligingAngelo#readme"
+}
